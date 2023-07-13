@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+html{
+   scroll-behavior: smooth;
+}
+body{
+   background-color:#080808;
+   color:#fff;
+}
+.container{
+    padding: 10px 10%;
+    margin-top:50px;
+    font-size:50px;
+    text-shadow:5px 5px red;
+}
+
+.loon{
+    font-size:25px;
+    justify-content:space-around;
+    width:800px;
+    height:40px;
+    margin-left:100px;
+    padding: 2px 5%;
+    margin-top:10px;
+    display:block;
+}
+.loon h3{
+    text-shadow:4px 2px red;
+}
+.p2{
+    margin-top:8px;
+}
+.pan{
+    margin-top:20px;
+}
+.toon{
+    display:block;
+    font-size:25px;
+    justify-content:space-around;
+}
+
+.andy{
+    color:white;
+    font-size:25px;
+    border:3px solid red;
+    border-radius:6px;
+    text-decoration:none;
+    background-color:red;
+}
+
+.andy:active{
+    color:black;
+}
+
+.jack{
+    margin-left:900px;
+    margin-bottom:200px;
+}
